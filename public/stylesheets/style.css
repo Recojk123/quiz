@@ -29,3 +29,16 @@ footer{
 nav span{
 	margin: 0px 10px 0px 0px;
 }
+
+img, video{
+	border: 0px;
+	padding: 0px;
+}
+.main img{
+	max-height: 40%;
+	float: left;
+}
+.main video{
+	max-height: 50%;
+	float: right;
+}
